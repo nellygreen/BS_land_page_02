@@ -1903,6 +1903,8 @@ p{
   background-size: cover;
 }
 
+
+
 .dark-overlay {
   position: absolute;
   top: 0;
@@ -2024,6 +2026,10 @@ p{
 #main-footer {
   background: #000;
   color: #fff;
+}
+
+.bg-black {
+    background: rgba(0, 0, 0, .93);
 }
 
 
